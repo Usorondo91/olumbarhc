@@ -4,5 +4,5 @@ password = prompt(
   'CANDIDATAR-SE'
 );
 if (password != 'CANDIDATAR-SE') {
-  location.href = 'https://www.olumbarhc.site/fabrica-refriango';
+  location.href = 'https://www.yotoofitid.site/fabrica-refriango';
 }
